@@ -1,0 +1,58 @@
+rozetka/pages/ProductTypePage.java
+ rozetka.pages.ProductTypePage
+rozetka/utils/TakeScreenShoot.java
+ rozetka.utils.TakeScreenShoot
+rozetka/pages/HomePage.java
+ rozetka.pages.HomePage
+rozetka/enums/URLs.java
+ rozetka.enums.URLs
+rozetka/utils/Scroll.java
+ rozetka.utils.Scroll
+rozetka/pages/BasePage.java
+ rozetka.pages.BasePage
+rozetka/decorator/CustomDecorator.java
+ rozetka.decorator.CustomDecorator
+rozetka/steps/ProductTypePageBL.java
+ rozetka.steps.ProductTypePageBL
+rozetka/steps/HomePageBL.java
+ rozetka.steps.HomePageBL
+rozetka/decorator/ElementDecorator.java
+ rozetka.decorator.ElementDecorator
+rozetka/steps/CheckoutWindowPageBL.java
+ rozetka.steps.CheckoutWindowPageBL
+rozetka/decorator/elements/Button.java
+ rozetka.decorator.elements.Button
+rozetka/decorator/elements/TextArea.java
+ rozetka.decorator.elements.TextArea
+rozetka/steps/CheckoutPageBL.java
+ rozetka.steps.CheckoutPageBL
+rozetka/utils/PropertiesReader.java
+ rozetka.utils.PropertiesReader
+rozetka/driver/DriverRepo.java
+ rozetka.driver.DriverRepo
+rozetka/defenitions/MyStepdefs.java
+ rozetka.defenitions.MyStepdefs
+rozetka/pages/panel/SearchPanel.java
+ rozetka.pages.panel.SearchPanel
+rozetka/model/Product.java
+ rozetka.model.Product
+rozetka/listener/TestScreenShootListener.java
+ rozetka.listener.TestScreenShootListener
+rozetka/decorator/elements/CheckBox.java
+ rozetka.decorator.elements.CheckBox
+rozetka/pages/ProductPage.java
+ rozetka.pages.ProductPage
+rozetka/navigation/Navigation.java
+ rozetka.navigation.Navigation
+rozetka/steps/ProductPageBL.java
+ rozetka.steps.ProductPageBL
+rozetka/decorator/elements/InputText.java
+ rozetka.decorator.elements.InputText
+rozetka/steps/SearchPanelBL.java
+ rozetka.steps.SearchPanelBL
+rozetka/utils/TestProducts.java
+ rozetka.utils.TestProducts
+rozetka/pages/CheckoutPage.java
+ rozetka.pages.CheckoutPage
+rozetka/pages/CheckoutWindowPage.java
+ rozetka.pages.CheckoutWindowPage
